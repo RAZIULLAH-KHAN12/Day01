@@ -1,0 +1,3 @@
+function disMsg(){
+    alert ("Welcome")
+}
